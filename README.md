@@ -5,7 +5,7 @@
 -  Mustafa Naeem
 -  Rebecca Solomon
 -  Isabel Sy
-## Overview
+## Background
 
   One of the first video game was developed in 1958, Tennis For Two, which simulates a tennis game viewed from the sidelines. Since then, the gaming industry has grown remarkably. Obviously, the number one catalyst for the evolvement of video games is the rapid growth of the tech industry. In 65 years, video games have advanced from being console only to console, pc/mac, handheld, cellphone, and now even through virtual reality. 
   Not only did advances in technology help grow this industry, but also, unsuspectingly, the COVID-19 pandemic. When the lockdowns began in 2020, people needed to find a new way to interact with friends and/or family that did not just involve a group videocall or a watch party. It was at this time did the gaming industry suddenly took center stage. Video game streames on Twitch.tv reached record highs. E-sports gaining global recognition that the Olympics created an Esport series in 2023. 
