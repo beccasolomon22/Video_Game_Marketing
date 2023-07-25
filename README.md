@@ -105,6 +105,11 @@ There were three primary Machine Learning Models we developed
 
 The Video Game industry is a constantly growing market filled with a lot of successful games and a lot of unsuccessful games. The models we have built are extremely useful in predicting if a New Video Game is going to be successful (as well as where it will be successful). 
 
+1. Help companies increase Profits and Job Opportunities by being able to accurately predict a successful game
+2. Allows a foothold for new Game Developers to get in the door at Game companies
+3. Allows for better marketing by tailoring you games to actual people's preferrences
+4. No matter what region of the world a company is developing a game, ACTION is the leading genre
+
 ## Room for Improvement
 
 A Machine Learning model will rarely (if ever) be perfect. So our major idea for an area of imrpovement is to continue training and testing the model with more data to continue to increase its accuracy. 
