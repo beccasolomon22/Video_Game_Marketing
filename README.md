@@ -1,4 +1,4 @@
-# Game? Game! /Someone come up with a better title cause my brain cant rn/
+# The Video Game Success Model
 ## Group Memebers
 - Matheus Araujo
 - Sabrina Fernandez
